@@ -1,6 +1,6 @@
 # Johann Jansen van Vuuren
 
-My current areas areas of expertise is Full Stack Web Development and Software Engineering. 
+My current areas areas of expertise are Full Stack Web Development and Software Engineering. 
 
 - 🔭 I’m currently working on a MERN full stack web application with JWT authentication to authorisize and authenticate users of a fictional multinational company.
 - 💬 Ask me about anything.

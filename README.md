@@ -1,3 +1,4 @@
+![ background](background.png)
 # Johann Jansen van Vuuren
 
 My current areas areas of expertise are Full Stack Web Development and Software Engineering. 

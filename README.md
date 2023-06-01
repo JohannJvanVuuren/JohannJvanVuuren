@@ -1,4 +1,4 @@
-![ background](codePoint Innovations Ltd-logo-white.png)
+![ background](codePoint%20Innovations%20Ltd-logo-white.png?raw=true)
 # Johann Jansen van Vuuren
 
 My current areas areas of expertise are Full Stack Web Development and Software Engineering. 

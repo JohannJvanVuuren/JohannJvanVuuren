@@ -3,10 +3,30 @@
 
 My current areas areas of expertise are Full Stack Web Development (MERN) and Software Engineering. 
 
-|Skills                                   |
-|-----------------------------------------|
-|Coding              |Soft Skills         |
+
+|Coding Skills                       |Soft Skills                         |
+|------------------------------------|------------------------------------|
+|HTML5                               |Self Motivated                      |
+|CSS3                                |Autodidact                          |
+|SCSS / LESS                         |Strong Work Ethic                   |
+|JavaScript (Vanilla)                |Innovative Thinking                 |
+|VCS: Git / GitHub                   |Strong Problem Solving Skills       |              |
+|React                               |Friendly Disposition                |
+|Bootstrap / React Bootstrap         |Good Interpersonal Skills           |
+|Node.js                             |                                    |
+|Express.js                          |                                    |
+|MongoDB / Mongoose                  |                                    |
+|JWT Authentication                  |                                    |
+|Java                                |                                    |
+|JDBC                                |                                    |
+|SQL (MySQL / MySQLi)                |                                    |
+|Relational Database Design          |                                    |
+|PHP                                 |                                    |
+|Laravel                             |                                    |
+|WordPress                           |                                    |
+|Xenforo                             |                                    |
+|                                    |                                    |
+
 
 
 Please feel free to contact me should you require a web site or web application at [email](vanvuurenjohann124@gmail.com)
-

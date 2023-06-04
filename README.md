@@ -3,5 +3,10 @@
 
 My current areas areas of expertise are Full Stack Web Development (MERN) and Software Engineering. 
 
+|Skills                                   |
+|-----------------------------------------|
+|Coding              |Soft Skills         |
+
+
 Please feel free to contact me should you require a web site or web application at [email](vanvuurenjohann124@gmail.com)
 

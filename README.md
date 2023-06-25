@@ -1,7 +1,7 @@
 ![ background](codePoint%20Innovations%20Ltd-logo-white.png?raw=true)
 # Johann Jansen van Vuuren
 
-My current areas areas of expertise are Full Stack Web Development (MERN) and Software Engineering. 
+My current areas areas of expertise are Full Stack Web Development (MERN, PHP, Laravel) and Software Engineering(Java, JDBC, MySQL). 
 
 
 |Coding Skills                       |Soft Skills                         |
@@ -10,7 +10,7 @@ My current areas areas of expertise are Full Stack Web Development (MERN) and So
 |CSS3                                |Autodidact                          |           https://github.com/JohannJvanVuuren/JohannJvanVuuren/blob/main/JF%20Jansen%20van%20Vuuren%20Resume.pdf
 |SCSS / LESS                         |Strong Work Ethic                   |
 |JavaScript (Vanilla)                |Innovative Thinking                 |
-|jQuery                              |Strong Problem Solving Skills       |    
+|jQuery                              |Strong Problem-Solving Skills       |    
 |VCS: Git / GitHub                   |Friendly Disposition                |              
 |React                               |Good Interpersonal Skills           |     
 |Bootstrap / React Bootstrap         |Good Leadership Skills              |      

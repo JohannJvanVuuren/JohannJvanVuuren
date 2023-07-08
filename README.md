@@ -20,7 +20,7 @@ My current areas areas of expertise are Full Stack Web Development (MERN, PHP, L
 |JWT Authentication                  |                                    |
 |Java                                |                                    |
 |JDBC                                |                                    |
-|SQL (MySQL / MySQLi)                |                                    |
+|SQL (MySQL / MySQLi) / Sequelize    |                                    |
 |Relational Database Design          |                                    |
 |PHP                                 |                                    |
 |Laravel                             |                                    |

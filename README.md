@@ -28,7 +28,8 @@ My current areas areas of expertise are Full Stack Web Development (MERN, PHP, L
 |Xenforo                             |                                    |
 |                                    |                                    |
 
-[My CV](https://github.com/JohannJvanVuuren/JohannJvanVuuren/blob/main/JF%20Jansen%20van%20Vuuren%20Resume.pdf)
+[My CV](https://github.com/JohannJvanVuuren/JohannJvanVuuren/blob/main/JF%20Jansen%20van%20Vuuren%20Resume.pdf)  
+
 [My portfolio from my Immersive Full Stack and Software Engineering boot camp at HyperionDev](https://www.hyperiondev.com/portfolio/78314/)
 
 Please feel free to contact me should you require a website or web application at [email](vanvuurenjohann124@gmail.com)

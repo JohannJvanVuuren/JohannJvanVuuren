@@ -23,10 +23,17 @@ My current areas areas of expertise are Full Stack Web Development (MERN, PHP, L
 |SQL (MySQL / MySQLi) / Sequelize    |                                    |
 |Relational Database Design          |                                    |
 |PHP                                 |                                    |
-|Laravel                             |                                    |
-|WordPress                           |                                    |
-|Xenforo                             |                                    |
+|HubSpot CMS Developer               |                                    |
 |                                    |                                    |
+|                                    |                                    |
+|                                    |                                    |
+<!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
+<div class='academy-badge'>
+<a href='https://app-eu1.hubspot.com/academy/achievements/nr4ydjr2/en/1/johann-van-vuuren/hubspot-cms-for-developers' title='HubSpot CMS for Developers'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/775c3b55f63340ccbdd38d8a64ec680c.png' width=200/>
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
 
 [My CV](https://github.com/JohannJvanVuuren/JohannJvanVuuren/blob/main/JF%20Jansen%20van%20Vuuren%20Resume.pdf)  
 

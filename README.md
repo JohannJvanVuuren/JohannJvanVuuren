@@ -1,7 +1,7 @@
 ![ background](codePoint%20Innovations%20Ltd-logo-white.png?raw=true)
 # Johann Jansen van Vuuren
 
-My current areas areas of expertise are Full Stack Web Development (MERN, PHP, Laravel) and Software Engineering(Java, JDBC, MySQL). 
+My current areas areas of expertise are Full Stack Web Development (MERN, PHP) and Software Engineering(Java, JDBC, MySQL). 
 
 
 |Coding Skills                       |Soft Skills                         |

@@ -1,7 +1,7 @@
 ![ background](codePoint%20Innovations%20Ltd-logo-white.png?raw=true)
 # Johann Jansen van Vuuren
 
-My current areas areas of expertise are Full Stack Web Development (MERN, PHP) and Software Engineering(Java, JDBC, MySQL). 
+My current areas of expertise are Full Stack Web Development (MERN, PHP) and Software Engineering(C++, Java, JDBC, MySQL). 
 
 
 |Coding Skills                       |Soft Skills                         |
@@ -24,8 +24,8 @@ My current areas areas of expertise are Full Stack Web Development (MERN, PHP) a
 |Relational Database Design          |                                    |
 |PHP                                 |                                    |
 |HubSpot CMS Developer               |                                    |
-|                                    |                                    |
-|                                    |                                    |
+|TypeScript                          |                                    |
+|C++                                 |                                    |
 |                                    |                                    |
 <!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
 <div class='academy-badge'>
